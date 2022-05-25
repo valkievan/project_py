@@ -1,2 +1,1 @@
-# project_py
-Python project
+# python_base
